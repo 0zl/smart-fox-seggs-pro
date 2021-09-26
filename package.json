@@ -7,11 +7,19 @@
     "type": "git",
     "url": "git+https://github.com/0zl/smart-fox-seggs-pro.git"
   },
-  "keywords": ["mmo", "server", "emulator", "fox"],
+  "keywords": [
+    "mmo",
+    "server",
+    "emulator",
+    "fox"
+  ],
   "author": "ize (0zl)",
   "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/0zl/smart-fox-seggs-pro/issues"
   },
-  "homepage": "https://github.com/0zl/smart-fox-seggs-pro#readme"
+  "homepage": "https://github.com/0zl/smart-fox-seggs-pro#readme",
+  "dependencies": {
+    "ws": "^8.2.2"
+  }
 }
