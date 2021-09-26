@@ -1,0 +1,17 @@
+{
+  "name": "smart-fox-seggs-pro",
+  "version": "1.0.0",
+  "description": "smart fox doing seggs, pro version",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0zl/smart-fox-seggs-pro.git"
+  },
+  "keywords": ["mmo", "server", "emulator", "fox"],
+  "author": "ize (0zl)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/0zl/smart-fox-seggs-pro/issues"
+  },
+  "homepage": "https://github.com/0zl/smart-fox-seggs-pro#readme"
+}
